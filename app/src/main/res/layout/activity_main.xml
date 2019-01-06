@@ -15,6 +15,7 @@
         android:text="연습문제 모음"/>
 
     <Button
+        android:id="@+id/questionBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="1번, 두 숫자의 합 구하기"/>
